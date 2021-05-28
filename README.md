@@ -5,7 +5,7 @@
 
 <p>Atualmente estou cursando Análise e Desenvolvimento de Sistema no 2º Semestre, e cada dia que passa fico mais empolgado com que eu apredendo, tanto na faculdade e quanto com os cursos paralelos. Algumas tecnologias que estou apredendo a trabalhar incluem JavaScript, PHP, HTML5 e CSS3. </p>
 
-<h2> No momento:</h2>
+<h2> No momento:</h2><img align = "left" width = "150" height = "150" src = "images/producao.png">
 
 <p>- 🔭 Estou trabalhando em lp-not-2021-1.<br>
 - 🌱 Estou aprendendo Javascript/HTML5/CSS3.<br>
