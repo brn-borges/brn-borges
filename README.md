@@ -1,7 +1,7 @@
 ### Olá, seja bem-vindo(a)! 👋
 
 
-- 🔭 Atualmente estou trabalhando em Servtec Telecom.
+- 🔭 Atualmente estou trabalhando em lp-not-2021-1.
 - 🌱 Atualmente estou aprendendo Javascript/HTML5/CSS3.
 - 👯 Estou procurando colaborar em Aastech Corporation!
 - 🤔 Estou procurando ajuda com Javascript!!!
