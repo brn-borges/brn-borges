@@ -2,7 +2,7 @@
 
 
 <h1>Olá, seja bem-vindo(a)! 👋 </h1>
-<p>Eu me chamo Bruno, bora lá conhecer um pouco do meu aprendizado!</p>
+<p>Bora lá conhecer um pouco do meu aprendizado!</p>
 
 <p>Atualmente estou cursando Análise e Desenvolvimento de Sistema no 2º Semestre, e cada dia que passa fico mais empolgado com que eu apredendo, tanto na faculdade e quanto com os cursos paralelos. Algumas tecnologias que estou apredendo a trabalhar incluem JavaScript, PHP, HTML5 e CSS3. </p>
 
