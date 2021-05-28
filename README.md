@@ -16,6 +16,6 @@
 
 
 
-## Encontre-me na web 🌎: <img align = "left" width = "300" height = "300" src = "images/"> </a>
+## Encontre-me na web 🌎: <img align = "left" width = "300" height = "300" src = "images/compartilhar.png"> </a>
 <p>- Bora aprender juntos no <a href="https://discord.com/channels/@brnborges#4591"> Discord </a> 📹 ✍🏾<br>
 - Perfil Profissional no <a href="https://www.linkedin.com/in/brn-borges/"> LinkedIn </a> 💼</p>
