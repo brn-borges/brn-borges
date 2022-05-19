@@ -11,7 +11,7 @@
 
 <p>- 🔭 Estou trabalhando em lp-not-2021-1.<br>
 - 🌱 Estou aprendendo Javascript/HTML5/CSS3.<br>
-- 👯 Estou colaborando em <a href="https://github.com/brn-borges/aatstech-corporation">Aastech Corporation</a>.<br>
+- 👯 Estou colaborando em <a href="https://github.com/brn-borges/aatstechcorp.com.br">Aastech Corporation</a>.<br>
 - 🤔 Estou procurando ajuda com Javascript.<br>
 - 💬 Pergunte-me sobre o Projeto <a href="https://github.com/brn-borges/brn.com.br">brn.com.br</a>.<br>
 - 📫 Como entrar em contato comigo: <a href="mailto:bruno.bferreira3@gmail.com">bruno.bferreira3@gmail.com</a></p>
