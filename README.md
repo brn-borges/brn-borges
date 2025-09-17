@@ -4,8 +4,9 @@
 <h1>Olá, seja bem-vindo(a)! 👋 </h1>
 <p>Bora lá conhecer um pouco do meu aprendizado!</p>
 
-<p>Atualmente estou cursando Análise e Desenvolvimento de Sistema no 6º Semestre, e cada dia que passa fico mais empolgado com que eu apredendo, tanto na faculdade e quanto com os cursos paralelos. Algumas tecnologias que estou apredendo a trabalhar incluem JavaScript, PHP, Angular CLI, Node.JS, HTML5 e CSS3. </p>
-
+<p>
+Formando em Análise e Desenvolvimento de Sistemas pela Fatec, venho aprimorando meus conhecimentos tanto na graduação quanto em cursos complementares. Possuo experiência prática com JavaScript, PHP, Angular CLI, Node.js, HTML5 e CSS3.
+</p>
 
 <h2>No momento 🔧:</h2><img align = "right" width = "200" height = "200" src = "images/producao.png">
 
