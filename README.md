@@ -1,24 +1,39 @@
 <img src="images/logo-learning.png" alt="logo brn-learning">
 
+# 👋 Olá, seja bem-vindo(a)!
 
-<h1>Olá, seja bem-vindo(a)! 👋 </h1>
-<p>Bora lá conhecer um pouco do meu aprendizado!</p>
+Sou Bruno Borges, desenvolvedor apaixonado por transformar ideias em soluções digitais. **Formando em Análise e Desenvolvimento de Sistemas pela Fatec**, venho aprimorando meus conhecimentos tanto na graduação quanto em cursos complementares.
 
-<p>
-Formando em Análise e Desenvolvimento de Sistemas pela Fatec, venho aprimorando meus conhecimentos tanto na graduação quanto em cursos complementares. Possuo experiência prática com JavaScript, PHP, Angular CLI, Node.js, HTML5 e CSS3.
-</p>
+Tenho experiência prática com:
+- JavaScript, TypeScript
+- PHP, Node.js, Fastify
+- Angular CLI
+- HTML5, CSS3
+- PostgreSQL e MySQL
 
-<h2>No momento 🔧:</h2><img align = "right" width = "200" height = "200" src = "images/producao.png">
+---
 
-<p>- 🔭 Estou trabalhando em web-20221-n.<br>
-- 🌱 Estou aprendendo Angular CLI e Node.JS.<br>
-- 👯 Estou colaborando em <a href="https://github.com/brn-borges/aatstechcorp.com.br">Aastech Corporation</a>.<br>
-- 🤔 Estou procurando ajuda com Javascript.<br>
-- 💬 Pergunte-me sobre o Projeto <a href="https://github.com/brn-borges/brn.com.br">brn.com.br</a>.<br>
-- 📫 Como entrar em contato comigo: <a href="mailto:bruno.bferreira3@gmail.com">bruno.bferreira3@gmail.com</a></p>
-<br>
+## 🔧 No momento:
 
+<img align="right" width="200" height="200" src="images/producao.png">
 
-<h2>Encontre-me na web 🌎:</h2> <img align = "right" width = "200" height = "200" src = "images/compartilhar.png"> </a>
-<p>- Bora aprender juntos no <a href="https://discord.com/channels/@brnborges#4591"> Discord </a> 📹 ✍🏾<br>
-- Perfil Profissional no <a href="https://www.linkedin.com/in/brn-borges/"> LinkedIn </a> 💼</p>
+- 🔭 Trabalhando no projeto [ControlFinance](https://github.com/brn-borges/ControlFinance)
+- 🌱 Aprendendo Angular CLI e Node.js
+- 👯 Colaborando com [Aastech Corporation](https://github.com/brn-borges/aatstechcorp.com.br)
+- 🤔 Buscando aprimorar habilidades com JavaScript
+- 💬 Pergunte-me sobre o projeto [brn.com.br](https://github.com/brn-borges/brn.com.br)
+- 📫 Contato: [bruno.bferreira3@gmail.com](mailto:bruno.bferreira3@gmail.com)
+
+---
+
+## 🌎 Encontre-me na web:
+
+<img align="right" width="200" height="200" src="images/compartilhar.png">
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/brn-borges/)
+- 💬 Discord: `@brnborges#4591`
+
+---
+
+> “Bora lá conhecer um pouco do meu aprendizado!”
+
