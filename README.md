@@ -17,7 +17,7 @@ Tenho experiência prática com:
 
 <img align="right" width="200" height="200" src="images/producao.png">
 
-- 🔭 Trabalhando no projeto [ControlFinance](https://github.com/brn-borges/ControlFinance)
+- 🔭 Trabalhando no projeto [ControlFinance](https://controlfinance.sysbn.com.br)
 - 🌱 Aprendendo Angular CLI e Node.js
 - 👯 Colaborando com [Aastech Corporation](https://github.com/brn-borges/aatstechcorp.com.br)
 - 🤔 Buscando aprimorar habilidades com JavaScript
